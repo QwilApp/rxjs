@@ -1,6 +1,6 @@
 {
-  "name": "@reactivex/rxjs",
-  "version": "6.5.3",
+  "name": "@qwilapp/rxjs",
+  "version": "6.5.3-xhr-abort",
   "description": "Reactive Extensions for modern JavaScript",
   "main": "index.js",
   "sideEffects": false,
